@@ -16,7 +16,7 @@ class Demo {
     }
 }
 
-public class Main {
+public class Consecutive_Characters {
     public static void main(String[] args) {
         Demo demo = new Demo();
 
